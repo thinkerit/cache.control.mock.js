@@ -1,8 +1,11 @@
 {
   "name": "thk-cache-control-mock",
   "main": "./src/cache.control.mock.js",
-  "dependencies":{
-    "angular-mocks":"1.2.5"
+  "dependencies": {
+    "angular": "~1"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1"
   },
   "ignore": [
     "**/.*",
